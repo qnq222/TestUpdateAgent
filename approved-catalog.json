@@ -1,0 +1,50 @@
+﻿{
+  "catalogVersion": "2026.06.15",
+  "generatedUtc": "2026-06-15T05:59:01.1609771+00:00",
+  "applications": [
+    {
+      "appName": "Notepad++",
+      "wingetId": "Notepad++.Notepad++",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "github.com",
+        "objects.githubusercontent.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Notepad++"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "7zip",
+      "wingetId": "7zip.7zip",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "7-zip.org"
+      ],
+      "expectedPublisherSubjects": [
+        "Igor Pavlov"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    }
+  ],
+  "signature": {
+    "algorithm": "RS256",
+    "keyId": "CompanyAppUpdaterCatalogSigningKey01",
+    "value": "SQy4wCkjTwYG3ScqLDa/JwLyBtZFzOF7lpd+lhTHaVKmEhS6jmAqtb/k8VyRvc0zm9ymDMdlxj2PUXuFgPMVZ7rHxvFDZf1bcfQ06RPhG6sRXFM6Lnei2ty16pWFwqOdDDcIaGK5kdNKjpDpOJWN+v2BB5zOHAY0GqfdCQUOizGOHKEUzLPL36OJEBYW/TYYoniv4eRprDY3qRt3yc7472LSJoBDLdiPRdJb6VBeuWDzVpxIFAAR9mV55/snSYTqhpclAw8Py2z7ACAVEuS3m4Moe6EWbBLJ+4tDbocoJrfqmODLoF6ml0LtqVDPiTOge6AT+52l47Vy9wEWFuroVgUl4APxj7IcYHHaDSwY3g4WqUEg+s8x1DGBqrzvN2WCaGkKL5T+sxF2a69ct44mHfBSpkqy4ofa6QPL/7PYYD/bBeOrjrqaprKITWvVay2fSCTaVZkjMMaOQhj+DGGs6+jwCRizZyiJkkXsPmxIQvoI0iC4r+ImQNLVrH8vPozg"
+  }
+}

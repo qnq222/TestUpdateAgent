@@ -1,0 +1,167 @@
+﻿{
+  "catalogVersion": "2026.06.16",
+  "generatedUtc": "2026-07-02T09:21:21.9079222+00:00",
+  "applications": [
+    {
+      "appName": "Notepad++",
+      "wingetId": "Notepad++.Notepad++",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "github.com",
+        "objects.githubusercontent.com",
+        "release-assets.githubusercontent.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Notepad++"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "7zip",
+      "wingetId": "7zip.7zip",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "7-zip.org",
+        "github.com",
+        "release-assets.githubusercontent.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Igor Pavlov"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Google Chrome",
+      "wingetId": "Google.Chrome",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "dl.google.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Google LLC"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Adobe Acrobat Reader",
+      "wingetId": "Adobe.Acrobat.Reader.64-bit",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "ardownload2.adobe.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Adobe"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "WinRAR",
+      "wingetId": "RARLab.WinRAR",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "www.rarlab.com"
+      ],
+      "expectedPublisherSubjects": [
+        "win.rar GmbH"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Zoom",
+      "wingetId": "Zoom.Zoom",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "cdn.zoom.us"
+      ],
+      "expectedPublisherSubjects": [
+        "Zoom"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "K-Lite Mega Codec Pack",
+      "wingetId": "CodecGuide.K-LiteCodecPack.Mega",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "files2.codecguide.com"
+      ],
+      "expectedPublisherSubjects": [
+        "KLCP"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Microsoft OneDrive",
+      "wingetId": "Microsoft.OneDrive",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "oneclient.sfx.ms"
+      ],
+      "expectedPublisherSubjects": [
+        "Microsoft Corporation"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    }
+  ],
+  "signature": {
+    "algorithm": "RS256",
+    "keyId": "CompanyAppUpdaterCatalogSigningKey01",
+    "value": "kQ50yWfamcux880iOhM43PdT7kq4la7n8SNBqROM00av6VZpI3n35UADlWZBiEPmN0Kqx70NZwvINa736sAy+vvFDCaPu4S3U9/d0HwDc3l8XCGwv8rE84sG+SfDhwuUurfqbyCXLtoDloNxR6EuyGvUaB9+5hhVkncvRf6fCAVPl/9PckI5N+rTkTM6LYJqwauXs3E8aEPsxp2+2ZmmNHYolqs4uy1H2tQ1ExMQCzi2Ur3CuBG6TSAenUeIp7p5/jhyr/nEOU3aqMpVbvCGolRVDbpuEvgUCGR0EEAZ8BbmpqgrKUehF3NnHh+XuEeLrJLLF/YNBH8vBVriiM/y6nSwJPyXHo24IurTkEvrroXE9X1oQHhJwOV13G0o+jwxsM5EUSMbf3r39QG7CT/3M1fnmHnpxHkzyE6+zvJ0BUeyaib9o9w0bURDetCOyfTs9ivpt1+zgF2su+QGqZ7Z3CJXwu0WpIxcs/lsdtO7F2VRbNwizin19us//o2TxFH4"
+  }
+}

@@ -1,0 +1,205 @@
+﻿{
+  "catalogVersion": "2026.06.16",
+  "generatedUtc": "2026-07-02T09:38:01.1420794+00:00",
+  "applications": [
+    {
+      "appName": "Notepad++",
+      "wingetId": "Notepad++.Notepad++",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "github.com",
+        "objects.githubusercontent.com",
+        "release-assets.githubusercontent.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Notepad++"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "7zip",
+      "wingetId": "7zip.7zip",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "7-zip.org",
+        "github.com",
+        "release-assets.githubusercontent.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Igor Pavlov"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Google Chrome",
+      "wingetId": "Google.Chrome",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "dl.google.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Google LLC"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Adobe Acrobat Reader",
+      "wingetId": "Adobe.Acrobat.Reader.64-bit",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "ardownload2.adobe.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Adobe"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "WinRAR",
+      "wingetId": "RARLab.WinRAR",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "www.rarlab.com"
+      ],
+      "expectedPublisherSubjects": [
+        "win.rar GmbH"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Zoom",
+      "wingetId": "Zoom.Zoom",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "cdn.zoom.us"
+      ],
+      "expectedPublisherSubjects": [
+        "Zoom"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "K-Lite Mega Codec Pack",
+      "wingetId": "CodecGuide.K-LiteCodecPack.Mega",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "files2.codecguide.com"
+      ],
+      "expectedPublisherSubjects": [
+        "KLCP"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Microsoft OneDrive",
+      "wingetId": "Microsoft.OneDrive",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "oneclient.sfx.ms"
+      ],
+      "expectedPublisherSubjects": [
+        "Microsoft Corporation"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Microsoft Visual C++ 2015-2022 Redistributable",
+      "wingetId": "Microsoft.VCRedist.2015+.x64",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "download.visualstudio.microsoft.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Microsoft Corporation"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    },
+    {
+      "appName": "Microsoft Visual C++ 2015-2022 Redistributable",
+      "wingetId": "Microsoft.VCRedist.2015+.x86",
+      "allowed": true,
+      "allowedVersions": [
+        "latest"
+      ],
+      "allowedDomains": [
+        "download.visualstudio.microsoft.com"
+      ],
+      "expectedPublisherSubjects": [
+        "Microsoft Corporation"
+      ],
+      "requireHash": true,
+      "requireSignature": true,
+      "allowWingetManifestHashFallback": true,
+      "installerSha256": "",
+      "silentArgs": ""
+    }
+  ],
+  "signature": {
+    "algorithm": "RS256",
+    "keyId": "CompanyAppUpdaterCatalogSigningKey01",
+    "value": "UD1YlP4UI5Eo2qTnhHgtKlHIbHwpGXldvUYODSF2OxulnUq48hTky2Qz1dt2H3auvu1RcVIr1TtfPsrUZv6qDLcX4IO23BmHCFCgfAKBHxJhPoJZAE8sMu+GjZtBi8YbutvqG8QM01qgQzmUeXz5gGU7P98O/BbAlz5LsPNp5JXkP/eFffWbzdHjn3lTeGjl7P6mq+SY4yFodwM0X0a0KdYfEC7n+BSdl/EX3319sirqzWbqeJiA/ykdKQ8K9GHWqXWinX+wadDc5Uzc7lT0EFgv/ocZK9AGDYorDq1IukT2ndN17NcHRrbsvMHoZhQzmRAP7Cr6aAESQzSLgyU49h133ftqmGskcbV9jRNHod1oBSTJZf6GKpw8mqlvkkRQ0kC4aykm+efAkha4wes8z2j9L6uPhMoik0GRD+hFuDlqx5eDYNKExC0wYQXzD3wsGRVoeV0WCO/IyBBmSo7RAz0crX6b82km9d/J3vVphJXdrdZoQuR0IG/XMS0I7eAx"
+  }
+}
